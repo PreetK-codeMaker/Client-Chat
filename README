@@ -1,0 +1,5 @@
+This application is multithreaded, where only two clients can chat with an additional tic-tac-toe game.
+To run this:
+  1. Run the server first.
+  2. Run the client chat.
+  3. Enter local loopback address
